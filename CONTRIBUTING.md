@@ -1,6 +1,6 @@
-# Contributing to QuickCart
+# Contributing to MeroCart
 
-Thank you for considering contributing to ** QuickCart** 
+Thank you for considering contributing to ** MeroCart** 
 We welcome contributions from everyone whether it's fixing a bug, adding a new feature or improving the design.
 
 ---
