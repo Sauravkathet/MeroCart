@@ -5,10 +5,11 @@ import Link from "next/link"
 import { useAppContext } from "@/context/AppContext";
 import Image from "next/image";
 import MyOrders from "@/app/my-orders/page";
-import { useClerk } from "@clerk/nextjs";
-const Navbar = () => {
+import { useClerk, UserButton } from "@clerk/nextjs";
 
-  const { isSeller, router } = useAppContext();
+
+const Navbar = () => {
+  const { isSeller, router , user } = useAppContext();
   const {openSignIn}= useClerk()
 
   return (
@@ -50,10 +51,13 @@ const Navbar = () => {
 
       <div className="flex items-center md:hidden gap-3">
         {isSeller && <button onClick={() => router.push('/seller')} className="text-xs border px-4 py-1.5 rounded-full">Seller Dashboard</button>}
-        <button onClick={openSignIn} className="flex items-center gap-2 hover:text-gray-900 transition">
+        {
+        user ? <> 
+        <UserButton/></>
+        :<button onClick={openSignIn} className="flex items-center gap-2 hover:text-gray-900 transition">
           <Image src={assets.user_icon} alt="user icon" />
           Account
-        </button>
+        </button>}
       </div>
     </nav>
   );
