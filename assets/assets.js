@@ -200,7 +200,7 @@ export const productsDummyData = [
     "price": 599.99,
     "offerPrice": 499.99,
     "image": [
-      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/dd3l13vfoartrgbvkkh5.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/playstation_image.png"
     ],
     "category": "Accessories",
     "date": 1738667503075,
@@ -214,7 +214,7 @@ export const productsDummyData = [
     "price": 4199.99,
     "offerPrice": 3899.99,
     "image": [
-      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/r5h370zuujvrw461c6wy.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/cannon_camera_image.png"
     ],
     "category": "Camera",
     "date": 1738667788883,
@@ -228,7 +228,7 @@ export const productsDummyData = [
     "price": 2799.99,
     "offerPrice": 2499.99,
     "image": [
-      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/rzri7kytphxalrm9rubd.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/macbook_image.png"
     ],
     "category": "Laptop",
     "date": 1738667977644,
@@ -242,7 +242,7 @@ export const productsDummyData = [
     "price": 349.99,
     "offerPrice": 299.99,
     "image": [
-      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/e3zjaupyumdkladmytke.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/sony_airbuds_image.png"
     ],
     "category": "Earphone",
     "date": 1738668086331,
@@ -256,7 +256,7 @@ export const productsDummyData = [
     "price": 1699.99,
     "offerPrice": 1499.99,
     "image": [
-      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/qqdcly8a8vkyciy9g0bw.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/projector_image.png"
     ],
     "category": "Accessories",
     "date": 1738668126660,
@@ -270,7 +270,7 @@ export const productsDummyData = [
     "price": 2199.99,
     "offerPrice": 1999.99,
     "image": [
-      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/wig1urqgnkeyp4t2rtso.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/asus_laptop_image.png"
     ],
     "category": "Laptop",
     "date": 1738668619198,
