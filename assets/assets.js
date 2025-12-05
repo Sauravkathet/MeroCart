@@ -139,10 +139,12 @@ export const productsDummyData = [
     "price": 499.99,
     "offerPrice": 399.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/k4dafzhwhgcn5tnoylrw.webp",
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/j212frakb8hdrhvhajhg.webp",
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/imwuugqxsajuwqpkegb5.webp",
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/k1oqaslw5tb3ebw01vvj.webp"
+
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/product_details_page_apple_earphone_image1.png",
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/product_details_page_apple_earphone_image2.png",
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/product_details_page_apple_earphone_image4.png",
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/product_details_page_apple_earphone_image5.png"
+    
     ],
     "category": "Earphone",
     "date": 1738667236865,
@@ -156,7 +158,7 @@ export const productsDummyData = [
     "price": 429.99,
     "offerPrice": 329.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/m16coelz8ivkk9f0nwrz.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/bose_headphone_image.png"
     ],
     "category": "Headphone",
     "date": 1738667310300,
@@ -170,7 +172,7 @@ export const productsDummyData = [
     "price": 899.99,
     "offerPrice": 799.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/xjd4eprpwqs7odbera1w.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/samsung_s23phone_image.png"
     ],
     "category": "Smartphone",
     "date": 1738667366224,
@@ -184,7 +186,7 @@ export const productsDummyData = [
     "price": 399.99,
     "offerPrice": 349.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/hdfi4u3fmprazpnrnaga.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/venu_watch_image.png"
     ],
     "category": "Earphone",
     "date": 1738667417511,
@@ -198,7 +200,7 @@ export const productsDummyData = [
     "price": 599.99,
     "offerPrice": 499.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/dd3l13vfoartrgbvkkh5.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/dd3l13vfoartrgbvkkh5.webp"
     ],
     "category": "Accessories",
     "date": 1738667503075,
@@ -212,7 +214,7 @@ export const productsDummyData = [
     "price": 4199.99,
     "offerPrice": 3899.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/r5h370zuujvrw461c6wy.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/r5h370zuujvrw461c6wy.webp"
     ],
     "category": "Camera",
     "date": 1738667788883,
@@ -226,7 +228,7 @@ export const productsDummyData = [
     "price": 2799.99,
     "offerPrice": 2499.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/rzri7kytphxalrm9rubd.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/rzri7kytphxalrm9rubd.webp"
     ],
     "category": "Laptop",
     "date": 1738667977644,
@@ -240,7 +242,7 @@ export const productsDummyData = [
     "price": 349.99,
     "offerPrice": 299.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/e3zjaupyumdkladmytke.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/e3zjaupyumdkladmytke.webp"
     ],
     "category": "Earphone",
     "date": 1738668086331,
@@ -254,7 +256,7 @@ export const productsDummyData = [
     "price": 1699.99,
     "offerPrice": 1499.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/qqdcly8a8vkyciy9g0bw.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/qqdcly8a8vkyciy9g0bw.webp"
     ],
     "category": "Accessories",
     "date": 1738668126660,
@@ -268,7 +270,7 @@ export const productsDummyData = [
     "price": 2199.99,
     "offerPrice": 1999.99,
     "image": [
-      "https://raw.githubusercontent.com/avinashdm/gs-images/main/ MeroCart/wig1urqgnkeyp4t2rtso.webp"
+      "https://raw.githubusercontent.com/Sauravkathet/MeroCart/main/assets/wig1urqgnkeyp4t2rtso.webp"
     ],
     "category": "Laptop",
     "date": 1738668619198,
