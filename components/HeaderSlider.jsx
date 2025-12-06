@@ -5,6 +5,14 @@ import Image from "next/image";
 const HeaderSlider = () => {
   const sliderData = [
     {
+      id: 3,
+      title: "Power Meets Elegance - Apple MacBook Pro is Here for you!",
+      offer: "Exclusive Deal 40% Off",
+      buttonText1: "Order Now",
+      buttonText2: "Learn More",
+      imgSrc: assets.header_macbook_image,
+    },  
+    {
       id: 1,
       title: "Experience Pure Sound - Your Perfect Headphones Awaits!",
       offer: "Limited Time Offer 30% Off",
@@ -20,14 +28,7 @@ const HeaderSlider = () => {
       buttonText2: "Explore Deals",
       imgSrc: assets.header_playstation_image,
     },
-    {
-      id: 3,
-      title: "Power Meets Elegance - Apple MacBook Pro is Here for you!",
-      offer: "Exclusive Deal 40% Off",
-      buttonText1: "Order Now",
-      buttonText2: "Learn More",
-      imgSrc: assets.header_macbook_image,
-    },
+    
   ];
 
   const [currentSlide, setCurrentSlide] = useState(0);
