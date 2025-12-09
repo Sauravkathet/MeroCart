@@ -37,7 +37,6 @@ const Navbar = () => {
           Contact
         </Link>
 
-        {/* Styled Seller Dashboard button to match the professional theme (Outline style) */}
         {isSeller && (
           <button 
             onClick={() => router.push('/seller')} 
@@ -67,7 +66,7 @@ const Navbar = () => {
             onClick={() => router.push('/seller')} 
             className="text-xs border border-slate-200 px-4 py-1.5 rounded-full hover:bg-slate-50 transition"
           >
-            Seller Dashboard
+            Admin/Seller Dashboard
           </button>
         )}
         {user ? (

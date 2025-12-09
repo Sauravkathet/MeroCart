@@ -7,7 +7,7 @@ const products = [
     id: 1,
     image: assets.girl_with_headphone_image,
     title: "Unparalleled Sound",
-    description: "Experience crystal-clear audio with premium headphones.",
+    description: "Experience crystal-clear audio with premium headphones on.",
   },
   {
     id: 2,
