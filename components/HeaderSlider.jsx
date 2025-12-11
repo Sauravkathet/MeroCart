@@ -7,7 +7,7 @@ const HeaderSlider = () => {
     {
       id: 3,
       title: "Power Meets Elegance - Apple MacBook Pro is Here for you!",
-      offer: "Exclusive Deal 40% Off",
+      offer: "Exclusive Deal 20% Off",
       buttonText1: "Order Now",
       buttonText2: "Learn More",
       imgSrc: assets.header_macbook_image,
@@ -23,7 +23,7 @@ const HeaderSlider = () => {
     {
       id: 2,
       title: "Next-Level Gaming Starts Here - Discover PlayStation 5 Today!",
-      offer: "Hurry up only few lefts!",
+      offer: "Hurry up now, only few lefts!",
       buttonText1: "Shop Now",
       buttonText2: "Explore Deals",
       imgSrc: assets.header_playstation_image,

@@ -11,7 +11,7 @@ const Navbar = () => {
   const { openSignIn } = useClerk();
 
   return (
-    // Updated border to slate-200 and text to slate-600 for a cleaner look
+    
     <nav className="flex items-center justify-between px-6 md:px-16 lg:px-32 py-3 border-b border-slate-200 text-slate-600 bg-white">
       <Image
         className="cursor-pointer w-28 md:w-32"
