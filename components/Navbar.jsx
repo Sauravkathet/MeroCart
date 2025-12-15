@@ -30,7 +30,7 @@ const Navbar = () => {
         <Link href="/" className="hover:text-slate-900 transition font-medium">
           About Us
         </Link>
-        <Link href="/cart" className="hover:text-slate-900 transition font-medium">
+        <Link href="/cart" className="hover:text-slate-800 transition font-medium">
           My Cart
         </Link>
         <Link href="/" className="hover:text-slate-900 transition font-medium">
@@ -40,7 +40,7 @@ const Navbar = () => {
         {isSeller && (
           <button 
             onClick={() => router.push('/seller')} 
-            className="text-xs border border-slate-200 px-4 py-1.5 rounded-full hover:bg-slate-50 hover:border-slate-300 transition"
+            className="text-xs border border-slate-200 px-4 py-1.5 rounded-full hover:bg-slate-50 hover:border-slate-400 transition"
           >
             Seller Dashboard
           </button>
