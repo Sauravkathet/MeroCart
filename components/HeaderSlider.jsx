@@ -6,7 +6,7 @@ const HeaderSlider = () => {
   const sliderData = [
     {
       id: 3,
-      title: "Power Meets Elegance - Apple MacBook Pro is Here for you!",
+      title: "Power Meets Elegance - Apple MacBook Pro is Here for you !",
       offer: "Exclusive Deal 20% Off",
       buttonText1: "Order Now",
       buttonText2: "Learn More",

@@ -20,8 +20,7 @@ const Navbar = () => {
         alt="logo"
       />
       <div className="flex items-center gap-4 lg:gap-8 max-md:hidden">
-        {/* Updated hover effects to slate-900 for high contrast on interaction */}
-        <Link href="/" className="hover:text-slate-900 transition font-medium">
+        <Link href="/" className="hover:text-slate-800 transition font-medium">
           Home
         </Link>
         <Link href="/all-products" className="hover:text-slate-900 transition font-medium">
@@ -40,7 +39,7 @@ const Navbar = () => {
         {isSeller && (
           <button 
             onClick={() => router.push('/seller')} 
-            className="text-xs border border-slate-200 px-4 py-1.5 rounded-full hover:bg-slate-50 hover:border-slate-400 transition"
+            className="text-xs border border-slate-300 px-4 py-1.5 rounded-full hover:bg-slate-50 hover:border-slate-400 transition"
           >
             Seller Dashboard
           </button>
