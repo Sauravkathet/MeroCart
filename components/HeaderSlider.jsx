@@ -22,8 +22,8 @@ const HeaderSlider = () => {
     },
     {
       id: 2,
-      title: "Next-Level Gaming Starts Here - Discover PlayStation 5 Today!",
-      offer: "Hurry up now, only few lefts!",
+      title: "Next-Level Gaming Starts Here - Discover PlayStation 5 Today. Lets go!",
+      offer: "Hurry up now , only few lefts!",
       buttonText1: "Shop Now",
       buttonText2: "Explore Deals",
       imgSrc: assets.header_playstation_image,
@@ -89,7 +89,7 @@ const HeaderSlider = () => {
             key={index}
             onClick={() => handleSlideChange(index)}
             className={`h-2 w-2 rounded-full cursor-pointer ${
-              currentSlide === index ? "bg-orange-600" : "bg-gray-500/30"
+              currentSlide === index ? "bg-orange-500" : "bg-gray-500/30"
             }`}
           ></div>
         ))}
